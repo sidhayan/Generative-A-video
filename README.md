@@ -1,1 +1,1 @@
-# Generative-A-video
+# Generative-AI-video
